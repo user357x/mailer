@@ -1,0 +1,16 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "mailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "nodemailer": "latest"
+  },
+
+  "author": "vasily",
+  "license": "ISC"
+}
